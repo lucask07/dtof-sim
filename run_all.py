@@ -1,9 +1,9 @@
-# high-level script to run both scripts to create figures
+# high-level script to run three scripts to create figures
 # Lucas Koerner, 2021/4/9
 
 # Plot results from the Monte-Carlo sims
 #  (at times plot_mc uses analytical calculations
-#   to overlay on the Monte-Carlo results)
+#   to overlay onto the Monte-Carlo results)
 # 	creates paper figures 2,3,5
 exec(open('plot_mc.py').read())
 
