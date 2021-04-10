@@ -1,3 +1,5 @@
+https://zenodo.org/badge/356401320.svg
+
 # dtof-sim
 
 Analysis of direct TOF (dToF) timing precision that uses analytical calculations and Monte-Carlo simulations. 
