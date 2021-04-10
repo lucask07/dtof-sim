@@ -2,7 +2,7 @@
 
 Analysis of direct TOF (dToF) timing precision that uses analytical calculations and Monte-Carlo simulations. 
 
-Questions pursued:
+Examples of questions pursued:
 
 * How does TDC bin size effect timing precision?
 * How does the noise depend on the number of signal and background photons? 
