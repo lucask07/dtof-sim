@@ -1,4 +1,4 @@
-https://zenodo.org/badge/356401320.svg
+[![DOI](https://zenodo.org/badge/356401320.svg)](https://zenodo.org/badge/latestdoi/356401320)
 
 # dtof-sim
 
